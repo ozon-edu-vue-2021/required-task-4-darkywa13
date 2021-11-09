@@ -25,8 +25,7 @@ export default {
 }
 
 html,
-body,
-#app {
+body {
   height: 100%;
 }
 
